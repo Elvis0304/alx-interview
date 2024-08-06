@@ -1,6 +1,3 @@
-Curriculum <br>
-**Short Specialization** <br>
-
 # 0x06. Star Wars API
 
 `Algorithm` `Python` `API`
@@ -43,6 +40,4 @@ $ sudo npm install semi-standard --global
 ```bash
 $ sudo npm install request --global
 $ export NODE_PATH=/usr/lib/node_modules
-```
 
-## Finally...
